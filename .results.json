@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2021-07-07T03:49:05.646Z",
-    "end": "2021-07-07T03:49:05.959Z",
-    "duration": 313
+    "start": "2021-07-09T21:35:13.679Z",
+    "end": "2021-07-09T21:35:14.270Z",
+    "duration": 591
   },
   "tests": [
     {
@@ -20,14 +20,14 @@
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,7 +69,7 @@
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,14 +94,14 @@
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -143,7 +143,7 @@
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
